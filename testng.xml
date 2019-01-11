@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="testng" verbose="1" thread-count="2">
+
+
+    <test name="SampleTest-1">
+        <classes>
+            <class name="com.shipt.ui.automated.loginPage.LoginPageTest"></class>
+        </classes>
+    </test>
+
+</suite>
