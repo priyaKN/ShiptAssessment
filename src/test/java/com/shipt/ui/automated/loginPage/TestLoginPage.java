@@ -35,6 +35,7 @@ public class TestLoginPage extends TakeScreenshot {
                 break;
             case FORGOT_PASSWORD:
                 this.testForgotPassword(testData.get("expectedoutput"));
+                break;
             default:
                 log.error("An Error has occurred while testing " + testData.get("description"));
         }
