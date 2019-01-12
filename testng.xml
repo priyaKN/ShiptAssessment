@@ -5,7 +5,7 @@
 
     <test name="SampleTest-1">
         <classes>
-            <class name="com.shipt.ui.automated.loginPage.LoginPageTest"></class>
+            <class name="com.shipt.ui.automated.loginPage.TestLoginPage"></class>
         </classes>
     </test>
 

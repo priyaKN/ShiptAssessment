@@ -34,6 +34,7 @@ public class BaseTest extends BrowserDriverFactory {
         BrowserDriverFactory bf = new BrowserDriverFactory();
         driver = bf.createDriver();
         driver.get("https://shop.shipt.com/login");
+        driver.manage().window().maximize();
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--start-maximized");
         options.addArguments("disable-infobars");

@@ -15,7 +15,7 @@ import java.util.Map;
 /**
  * Created by C842045 on 1/10/2019.
  */
-public class LoginPageTest extends TakeScreenshot {
+public class TestLoginPage extends TakeScreenshot {
     private              HomePage           homePage           = new HomePage();
     private              LoginPage          loginPage          = new LoginPage();
     private              ForgotPasswordPage forgotPasswordPage = new ForgotPasswordPage();
@@ -52,10 +52,10 @@ public class LoginPageTest extends TakeScreenshot {
         super.waitUntilElementClickable(loginPage.getUserNameTextbox());
         super.sendKeysByAction(loginPage.getUserNameTextbox(), email);
         super.sendKeysByAction(loginPage.getPasswordTextbox(), password);
-        super.takeScreenshot("LoginPageTest");
+        super.takeScreenshot("TestLoginPage");
         super.clickByAction(loginPage.getLoginButton());
         super.waitUntilElementClickable(expectedText);
-        super.takeScreenshot("LoginPageTest");
+        super.takeScreenshot("TestLoginPage");
         Assert.assertEquals(expectedOutput, super.getText(expectedText));
     }
 
