@@ -44,7 +44,7 @@ public class BaseTest extends BrowserDriverFactory {
 
     @AfterMethod()
     public void tearDown() {
-        driver.quit();
+        driver.close();
     }
 
     /**
