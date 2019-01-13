@@ -2,7 +2,6 @@ package com.shipt.ui.automated.loginPage;
 
 import com.shipt.ui.pageObject.AccountPage;
 import com.shipt.ui.pageObject.ForgotPasswordPage;
-import com.shipt.ui.pageObject.HomePage;
 import com.shipt.ui.pageObject.LoginPage;
 import org.openqa.selenium.By;
 import org.testng.Assert;
@@ -16,7 +15,6 @@ import java.util.Map;
  * Created by C842045 on 1/10/2019.
  */
 public class TestLoginPage extends TakeScreenshot {
-    private              HomePage           homePage           = new HomePage();
     private              LoginPage          loginPage          = new LoginPage();
     private              ForgotPasswordPage forgotPasswordPage = new ForgotPasswordPage();
     private              AccountPage        accountPage        = new AccountPage();
