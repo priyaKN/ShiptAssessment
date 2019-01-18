@@ -7,15 +7,15 @@ Shipt - QA - Software Test Engineer - Interview Exercise
 case to describe how to test the feature. By navigating to the Login page, you can
 complete the Create Account flow in order to test inside the web app.
 
-	Ans: ShiptAssessment\assessmentQuestion1\Assessment Question 1 -TestLoginPage.xlsx - link to the above question in project
+		Ans: ShiptAssessment\assessmentQuestion1\Assessment Question 1 -TestLoginPage.xlsx - link to the above question in project
 
-	After navigating to www.shipt.com, i choose to test login feature which will be used by almost every user who access Shipt website. 
+		After navigating to www.shipt.com, i choose to test login feature which will be used by almost every user who access Shipt website. 
 	
-	I have prepared a testplan which can be used for both Manual testing and Automation (For the framework i have developed in this project, this test plan is compatible to be used directly without any modifications). 
+		I have prepared a testplan which can be used for both Manual testing and Automation (For the framework i have developed in this project, this test plan is compatible to be used directly without any modifications). 
 	
-	Following ISTQB best practices like Boundary value analysis, Equivalence class partitioning, State transition, Error Guessing, Decision table, i have come up with the 12 effective scenarios which has a good test coverage. TestLoginPage.xlsx explains all the scenarios with input details, expected outputs etc.,
+		Following ISTQB best practices like Boundary value analysis, Equivalence class partitioning, State transition, Error Guessing, Decision table, i have come up with the 12 effective scenarios which has a good test coverage. TestLoginPage.xlsx explains all the scenarios with input details, expected outputs etc.,
 	
-	Note# I have harcoded username and password in TestLoginPage.xlsx, but if have to do the same in my actual project, i will encrypt it instead of hardcoding inorder to follow security constraints. 
+		Note# I have harcoded username and password in TestLoginPage.xlsx, but if have to do the same in my actual project, i will encrypt it instead of hardcoding inorder to follow security constraints. 
  
  
  2. Locate one bug or bad workflow within the app.
@@ -25,9 +25,9 @@ complete the Create Account flow in order to test inside the web app.
     d. What are the steps you would take to report the issue?
     e. What priority would you give this bug (Scale of 1-5, 1 being highest) and why?
  
-    Ans: ShiptAssessment\assessmentQuestion2\Assessment Question 2.docx - link to the above question in project
+        Ans: ShiptAssessment\assessmentQuestion2\Assessment Question 2.docx - link to the above question in project
     
-    I play around with the shipt web application for sometime, and identified some issues/bad workflows in the application. The Assessment Question 2.docx explains my findings and i have also given reasoning on why it seems to be a bad work flow or bug to me.
+        I play around with the shipt web application for sometime, and identified some issues/bad workflows in the application. The Assessment Question 2.docx explains my findings and i have also given reasoning on why it seems to be a bad work flow or bug to me.
     
  
  3. What are the possible reasons for the following defect? How would you go about
@@ -38,9 +38,9 @@ complete the Create Account flow in order to test inside the web app.
     remains the second number rather than updating to the more recently entered
     number. A page refresh does not change the result.
     
-    Ans: ShiptAssessment\assessmentQuestion3\Assessment Question 3.docx - link to the above question in project
+        Ans: ShiptAssessment\assessmentQuestion3\Assessment Question 3.docx - link to the above question in project
     
-    This document explains the few out of many, what could be the possible reasons  for the above mentioned bug according to me.
+        This document explains the few out of many, what could be the possible reasons  for the above mentioned bug according to me.
     
     
  4. 1. List the stores allowed to sell alcohol
@@ -49,10 +49,10 @@ complete the Create Account flow in order to test inside the web app.
     4. What is the most popular item sold?
     5. Write a SQL statement to update the line_total field
     
-    Ans: ShiptAssessment\sQL\SQL.docx or
-         ShiptAssessment\sQL\SQL.sql - link to the above question in project
+            Ans: ShiptAssessment\sQL\SQL.docx or
+            ShiptAssessment\sQL\SQL.sql - link to the above question in project
     
-    This document explains the stored procedures or SQL queries for the questions asked above based on the scheme provided in the Questionnaire.
+            This document explains the stored procedures or SQL queries for the questions asked above based on the scheme provided in the Questionnaire.
     
     
  5. API Automation
@@ -68,11 +68,11 @@ complete the Create Account flow in order to test inside the web app.
     Ruby/Rspec
     Go/Testify
     
-    Ans:  #https://github.com/priyaKN/API-Automation - link to the above question in project
+        Ans:  #https://github.com/priyaKN/API-Automation - link to the above question in project
     
-    This link has a seperate customized project created for API Automation part of the assessment, that does all the specified requirements. 
+        This link has a seperate customized project created for API Automation part of the assessment, that does all the specified requirements. 
     
-    Considering above requirement as a user story, all the acceptance criteria is met for the above requirement with the project specified in above link.
+        Considering above requirement as a user story, all the acceptance criteria is met for the above requirement with the project specified in above link.
     
     
  6. Automation Assessment
@@ -81,13 +81,13 @@ complete the Create Account flow in order to test inside the web app.
     3. What do you believe are the most common causes for instability in UI automation?
     4. How do you make your tests consistent and easy to debug?
        
-    Ans:  ShiptAssessment\automationAssessment-Last Part\Automation Assessment.docx - link to the above question in project
+            Ans:  ShiptAssessment\automationAssessment-Last Part\Automation Assessment.docx - link to the above question in project
     
-    **This document gives reasoning on:**
-    why did i choose to use the different tool fromt he recommended. 
-    How do i debug a failed test case in my test framework vs remote server
-    What could be the possible reasons for instability of UI Automation
-    **Best practices for :** How do i make my tests consistent and easy to debug
+            **This document gives reasoning on:**
+            why did i choose to use the different tool fromt he recommended. 
+            How do i debug a failed test case in my test framework vs remote server
+            What could be the possible reasons for instability of UI Automation
+            **Best practices for :** How do i make my tests consistent and easy to debug
     
     
     
