@@ -7,7 +7,7 @@ Shipt - QA - Software Test Engineer - Interview Exercise
 case to describe how to test the feature. By navigating to the Login page, you can
 complete the Create Account flow in order to test inside the web app.
 
-	Ans: ShiptAssessment\assessmentQuestion1\Assessment Question 1 -TestLoginPage.xlsx
+	Ans: ShiptAssessment\assessmentQuestion1\Assessment Question 1 -TestLoginPage.xlsx - link to the above question in project
 
 	After navigating to www.shipt.com, i choose to test login feature which will be used by almost every user who access Shipt website. 
 	
@@ -25,7 +25,7 @@ complete the Create Account flow in order to test inside the web app.
     d. What are the steps you would take to report the issue?
     e. What priority would you give this bug (Scale of 1-5, 1 being highest) and why?
  
-    Ans: ShiptAssessment\assessmentQuestion2\Assessment Question 2.docx
+    Ans: ShiptAssessment\assessmentQuestion2\Assessment Question 2.docx - link to the above question in project
     
     I play around with the shipt web application for sometime, and identified some issues/bad workflows in the application. The Assessment Question 2.docx explains my findings and i have also given reasoning on why it seems to be a bad work flow or bug to me.
     
@@ -38,7 +38,7 @@ complete the Create Account flow in order to test inside the web app.
     remains the second number rather than updating to the more recently entered
     number. A page refresh does not change the result.
     
-    Ans: ShiptAssessment\assessmentQuestion3\Assessment Question 3.docx
+    Ans: ShiptAssessment\assessmentQuestion3\Assessment Question 3.docx - link to the above question in project
     
     This document explains the few out of many, what could be the possible reasons  for the above mentioned bug according to me.
     
@@ -50,7 +50,7 @@ complete the Create Account flow in order to test inside the web app.
     5. Write a SQL statement to update the line_total field
     
     Ans: ShiptAssessment\sQL\SQL.docx or
-         ShiptAssessment\sQL\SQL.sql
+         ShiptAssessment\sQL\SQL.sql - link to the above question in project
     
     This document explains the stored procedures or SQL queries for the questions asked above based on the scheme provided in the Questionnaire.
     
@@ -68,7 +68,7 @@ complete the Create Account flow in order to test inside the web app.
     Ruby/Rspec
     Go/Testify
     
-    Ans:  #https://github.com/priyaKN/API-Automation
+    Ans:  #https://github.com/priyaKN/API-Automation - link to the above question in project
     
     This link has a seperate customized project created for API Automation part of the assessment, that does all the specified requirements. 
     
@@ -81,7 +81,7 @@ complete the Create Account flow in order to test inside the web app.
     3. What do you believe are the most common causes for instability in UI automation?
     4. How do you make your tests consistent and easy to debug?
        
-    Ans:  ShiptAssessment\automationAssessment-Last Part\Automation Assessment.docx
+    Ans:  ShiptAssessment\automationAssessment-Last Part\Automation Assessment.docx - link to the above question in project
     
     **This document gives reasoning on:**
     why did i choose to use the different tool fromt he recommended. 
