@@ -68,7 +68,7 @@ complete the Create Account flow in order to test inside the web app.
     Ruby/Rspec
     Go/Testify
     
-        Ans:  #https://github.com/priyaKN/API-Automation - link to the above question in project
+        Ans:  https://github.com/priyaKN/API-Automation - link to the above question in project
     
         This link has a seperate customized project created for API Automation part of the assessment, that does all the specified requirements. 
     
