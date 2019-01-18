@@ -95,12 +95,13 @@ complete the Create Account flow in order to test inside the web app.
     ShiptAssessment\src
     
     
- Tools and libraries Used:
+ Tools, technologies and libraries Used:
  
     Selenium
     TestNG
 	Maven
 	Log4j
+	Java
 
     
  This completes the assessment.
