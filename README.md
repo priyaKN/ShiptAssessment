@@ -90,6 +90,18 @@ complete the Create Account flow in order to test inside the web app.
             **Best practices for :** How do i make my tests consistent and easy to debug
     
     
+ Below link has the UI automation , a sample test for Login page on Shipt website. This ShipAssessment project has a basic customized framework for UI Automation (can be enhanced based on requirement, this is basic)
+ 
+    ShiptAssessment\src
+    
+    
+ Tools and libraries Used:
+ 
+    Selenium
+    TestNG
+	Maven
+	Log4j
+
     
  This completes the assessment.
  
