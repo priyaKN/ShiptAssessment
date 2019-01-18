@@ -56,6 +56,7 @@ complete the Create Account flow in order to test inside the web app.
     
     
  5. API Automation
+ 
     Navigate to https://shipt.com/login to find exact url for the login endpoint. Write a custom API
     test framework that does the following:
     Send an invalid username/password to the token endpoint.
